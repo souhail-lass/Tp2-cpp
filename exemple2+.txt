@@ -1,0 +1,4 @@
+A:	+A+B-B-A	+A+B-B-A	11530m
+B:	+B+A-B-A	+A+B-A-B	10926m
+C:	+C+D-D-C	+C+D-D-C	24164m
+D:	+D+C-D-C	+C+D-C-D	2583m
